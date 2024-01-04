@@ -1,0 +1,6 @@
+Name, Best Training Score, Testing Score
+K-Nearest Neighbors, 0.930, 0.925
+Logistic Regression, 0.607, 0.565
+Decision Trees, 0.973, 0.995
+Random Forest, 0.940, 0.970
+Adaboost, 0.620, 0.565
